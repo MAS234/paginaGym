@@ -220,7 +220,7 @@ body{
 
 
 /* table */
-@media screen and (max-width: 780px){
+@media screen and (max-width: 820px){
 
     .letrasPrimera{ 
         box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.652);
@@ -230,6 +230,12 @@ body{
         transition: 1s;
         margin-left: 20px;
         margin-top: 10%;
+    }
+    
+    .letraP{
+        color:rgb(240, 137, 27);
+        font-size: 50px;
+        font-weight: bold;
     }
 
 
@@ -362,7 +368,7 @@ body{
     
     .letraP{
         color:rgb(240, 137, 27);
-        font-size: 5vh;
+        font-size: 20px;
         font-weight: bold;
     }
 
